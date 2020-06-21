@@ -1,0 +1,28 @@
+img {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-style:wavy;
+}
+
+
+h2 {
+    background-color:red;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-style:dotted;
+}
+
+p{
+    text-indent: 70px;
+    color:yellow;
+}
